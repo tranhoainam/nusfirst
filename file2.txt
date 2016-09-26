@@ -1,3 +1,5 @@
 s
 
 check stage_2
+
+new-stage check
